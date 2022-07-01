@@ -1,0 +1,5 @@
+E:\Labfiles\Lab 1\Ex1\Starter\Laba1Ex1\Laba1Ex1\bin\Debug\Laba1Ex1.exe
+E:\Labfiles\Lab 1\Ex1\Starter\Laba1Ex1\Laba1Ex1\bin\Debug\Laba1Ex1.pdb
+E:\Labfiles\Lab 1\Ex1\Starter\Laba1Ex1\Laba1Ex1\obj\x86\Debug\Laba1Ex1.exe
+E:\Labfiles\Lab 1\Ex1\Starter\Laba1Ex1\Laba1Ex1\obj\x86\Debug\Laba1Ex1.pdb
+E:\Labfiles\Lab 1\Ex1\Starter\Laba1Ex1\Laba1Ex1\bin\Debug\DataFile.txt

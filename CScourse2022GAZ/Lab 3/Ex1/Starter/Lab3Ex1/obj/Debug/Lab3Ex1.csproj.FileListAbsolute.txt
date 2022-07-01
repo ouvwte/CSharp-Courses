@@ -1,0 +1,7 @@
+E:\Labfiles\Lab 3\Ex1\Starter\Lab3Ex1\bin\Debug\Lab3Ex1.dll
+E:\Labfiles\Lab 3\Ex1\Starter\Lab3Ex1\bin\Debug\Lab3Ex1.pdb
+E:\Labfiles\Lab 3\Ex1\Starter\Lab3Ex1\bin\Debug\Module3.exe
+E:\Labfiles\Lab 3\Ex1\Starter\Lab3Ex1\bin\Debug\Module3.pdb
+E:\Labfiles\Lab 3\Ex1\Starter\Lab3Ex1\obj\Debug\Lab3Ex1.csprojResolveAssemblyReference.cache
+E:\Labfiles\Lab 3\Ex1\Starter\Lab3Ex1\obj\Debug\Lab3Ex1.dll
+E:\Labfiles\Lab 3\Ex1\Starter\Lab3Ex1\obj\Debug\Lab3Ex1.pdb

@@ -1,0 +1,12 @@
+E:\Labfiles\Lab 1\Ex2\Starter\Laba1Ex2\Laba1Ex2\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 1\Ex2\Starter\Laba1Ex2\Laba1Ex2\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 1\Ex2\Starter\Laba1Ex2\Laba1Ex2\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 1\Ex2\Starter\Laba1Ex2\Laba1Ex2\obj\x86\Debug\Laba1Ex2_MarkupCompile.cache
+E:\Labfiles\Lab 1\Ex2\Starter\Laba1Ex2\Laba1Ex2\obj\x86\Debug\Laba1Ex2.g.resources
+E:\Labfiles\Lab 1\Ex2\Starter\Laba1Ex2\Laba1Ex2\obj\x86\Debug\Laba1Ex2.Properties.Resources.resources
+E:\Labfiles\Lab 1\Ex2\Starter\Laba1Ex2\Laba1Ex2\obj\x86\Debug\Laba1Ex2.csproj.GenerateResource.Cache
+E:\Labfiles\Lab 1\Ex2\Starter\Laba1Ex2\Laba1Ex2\bin\Debug\Laba1Ex2.exe
+E:\Labfiles\Lab 1\Ex2\Starter\Laba1Ex2\Laba1Ex2\bin\Debug\Laba1Ex2.pdb
+E:\Labfiles\Lab 1\Ex2\Starter\Laba1Ex2\Laba1Ex2\obj\x86\Debug\Laba1Ex2.exe
+E:\Labfiles\Lab 1\Ex2\Starter\Laba1Ex2\Laba1Ex2\obj\x86\Debug\Laba1Ex2.pdb
+E:\Labfiles\Lab 1\Ex2\Starter\Laba1Ex2\Laba1Ex2\bin\Debug\DataFile.txt
