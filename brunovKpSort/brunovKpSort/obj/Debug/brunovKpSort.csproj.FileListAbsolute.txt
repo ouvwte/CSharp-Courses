@@ -1,0 +1,13 @@
+C:\Users\Danila\source\repos\brunovKpSort\brunovKpSort\bin\Debug\brunovKpSort.exe.config
+C:\Users\Danila\source\repos\brunovKpSort\brunovKpSort\bin\Debug\brunovKpSort.exe
+C:\Users\Danila\source\repos\brunovKpSort\brunovKpSort\bin\Debug\brunovKpSort.pdb
+C:\Users\Danila\source\repos\brunovKpSort\brunovKpSort\obj\Debug\brunovKpSort.csproj.AssemblyReference.cache
+C:\Users\Danila\source\repos\brunovKpSort\brunovKpSort\obj\Debug\brunovKpSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danila\source\repos\brunovKpSort\brunovKpSort\obj\Debug\brunovKpSort.Form1.resources
+C:\Users\Danila\source\repos\brunovKpSort\brunovKpSort\obj\Debug\brunovKpSort.Form2.resources
+C:\Users\Danila\source\repos\brunovKpSort\brunovKpSort\obj\Debug\brunovKpSort.Form3.resources
+C:\Users\Danila\source\repos\brunovKpSort\brunovKpSort\obj\Debug\brunovKpSort.Properties.Resources.resources
+C:\Users\Danila\source\repos\brunovKpSort\brunovKpSort\obj\Debug\brunovKpSort.csproj.GenerateResource.cache
+C:\Users\Danila\source\repos\brunovKpSort\brunovKpSort\obj\Debug\brunovKpSort.csproj.CoreCompileInputs.cache
+C:\Users\Danila\source\repos\brunovKpSort\brunovKpSort\obj\Debug\brunovKpSort.exe
+C:\Users\Danila\source\repos\brunovKpSort\brunovKpSort\obj\Debug\brunovKpSort.pdb
