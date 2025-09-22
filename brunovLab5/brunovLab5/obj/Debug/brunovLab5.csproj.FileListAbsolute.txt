@@ -1,0 +1,13 @@
+C:\Users\Danila\source\repos\brunovLab5\brunovLab5\bin\Debug\brunovLab5.exe.config
+C:\Users\Danila\source\repos\brunovLab5\brunovLab5\bin\Debug\brunovLab5.exe
+C:\Users\Danila\source\repos\brunovLab5\brunovLab5\bin\Debug\brunovLab5.pdb
+C:\Users\Danila\source\repos\brunovLab5\brunovLab5\obj\Debug\brunovLab5.csproj.AssemblyReference.cache
+C:\Users\Danila\source\repos\brunovLab5\brunovLab5\obj\Debug\brunovLab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danila\source\repos\brunovLab5\brunovLab5\obj\Debug\brunovLab5.Form1.resources
+C:\Users\Danila\source\repos\brunovLab5\brunovLab5\obj\Debug\brunovLab5.Form2.resources
+C:\Users\Danila\source\repos\brunovLab5\brunovLab5\obj\Debug\brunovLab5.Properties.Resources.resources
+C:\Users\Danila\source\repos\brunovLab5\brunovLab5\obj\Debug\brunovLab5.csproj.GenerateResource.cache
+C:\Users\Danila\source\repos\brunovLab5\brunovLab5\obj\Debug\brunovLab5.csproj.CoreCompileInputs.cache
+C:\Users\Danila\source\repos\brunovLab5\brunovLab5\obj\Debug\brunovLab5.exe
+C:\Users\Danila\source\repos\brunovLab5\brunovLab5\obj\Debug\brunovLab5.pdb
+C:\Users\Danila\source\repos\brunovLab5\brunovLab5\obj\Debug\brunovLab5.Form3.resources
